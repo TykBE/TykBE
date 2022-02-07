@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Tyk
+- 🌱 I’m currently working on a music bot using distube
+- 📫 I'm based in Belgium
